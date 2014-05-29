@@ -1,4 +1,4 @@
 Externs
 =======
 
-Google Closure Common externs
+Google Closure library externs
